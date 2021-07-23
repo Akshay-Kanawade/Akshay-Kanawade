@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm AKSHAY KANAWADE</h1>
-<h3 align="center">Student at Amrutvahini college of Engineering ,Sangamner.</h3>
+<h3 align="center">Student at Amrutvahini college of Engineering ,Sangamner..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksk16101999&label=Profile%20views&color=0e75b6&style=flat" alt="aksk16101999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksk16101999" alt="aksk16101999" /></a> </p>
 
-- 🌱 I’m currently learning **Image Processing ,CNN**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Public_complaint_sorting_using_IP](https://github.com/AKSK16101999/Public_complaint_sorting_using_IP)
+
+- 🌱 I’m currently learning **Image Processing ,CNN,Python.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AKSK16101999](https://github.com/AKSK16101999)
+
+- 💬 Ask me about **Python , Image Processing**
 
 - 📫 How to reach me **kanawade.akshay@gmail.com**
 
@@ -25,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksk16101999&show_icons=true&locale=en&layout=compact" alt="aksk16101999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksk16101999&show_icons=true&locale=en" alt="aksk16101999" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksk16101999&" alt="aksk16101999" /></p>
