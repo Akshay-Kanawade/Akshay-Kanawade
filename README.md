@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AKSHAY KANAWADE</h1>
-<h3 align="center">Student at Amrutvahini college of Engineering ,Sangamner..</h3>
+<h3 align="center">Student at Amrutvahini college of Engineering ,Sangamner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksk16101999&label=Profile%20views&color=0e75b6&style=flat" alt="aksk16101999" /> </p>
 
