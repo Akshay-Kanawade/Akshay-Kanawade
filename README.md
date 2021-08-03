@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm AKSHAY KANAWADE</h1>
-<h3 align="center">Student at Amrutvahini college of Engineering ,Sangamner.</h3>
+<h2 align="center">Python Developer at Om Software</h3>
+
+<h5 align="center">Completed <h3>B.E<h3> in stream of <h3>Information Technology<h3> from <h4>Amrutvahini college of Engineering ,Sangamner.<h4></h5>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksk16101999&label=Profile%20views&color=0e75b6&style=flat" alt="aksk16101999" /> </p>
 
