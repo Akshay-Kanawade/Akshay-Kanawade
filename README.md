@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKSHAY KANAWADE</h1>
 <h2 align="center">Python Developer at Om Software</h3>
 
-<h3 align="center">Completed B.E in stream of Information Technology from Amrutvahini college of Engineering ,Sangamner.</h3>
+<h3 align="center">Completed <b>B.E</b> in stream of <b>Information Technology</b> from <b>Amrutvahini college of Engineering ,Sangamner</b>.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksk16101999&label=Profile%20views&color=0e75b6&style=flat" alt="aksk16101999" /> </p>
