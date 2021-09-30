@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h2> I'm AKSHAY KANAWADE</h2>
+<h2 align="center"> I'm AKSHAY KANAWADE</h2>
 <h3 align="center">Python Developer at Om Software</h3>
 
 <h3 align="center">Completed <b>B.E</b> in stream of <b>Information Technology</b> from <b>Amrutvahini college of Engineering ,Sangamner</b>.</h3>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Public_complaint_sorting_using_IP](https://github.com/AKSK16101999/Public_complaint_sorting_using_IP)
 
-- 🌱 I’m currently learning **Image Processing ,CNN,Python.**
+- 🌱 I’m currently learning **Image Processing , CNN, Python.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKSK16101999](https://github.com/AKSK16101999)
 
