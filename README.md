@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm AKSHAY KANAWADE</h1>
-<h2 align="center">Python Developer at Om Software</h3>
+<h1 align="center">Hi 👋</h1>
+<h2> I'm AKSHAY KANAWADE</h2>
+<h3 align="center">Python Developer at Om Software</h3>
 
 <h3 align="center">Completed <b>B.E</b> in stream of <b>Information Technology</b> from <b>Amrutvahini college of Engineering ,Sangamner</b>.</h3>
 
