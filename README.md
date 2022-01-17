@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 <h2 align="center"> I'm AKSHAY KANAWADE</h2>
-<h3 align="center">Python Developer at Om Software</h3>
+<h3 align="center">Trainee Software Engineer in Thinkitive Technology Pvt. Ltd</h3>
 
 <h3 align="center">Completed <b>B.E</b> in stream of <b>Information Technology</b> from <b>Amrutvahini college of Engineering ,Sangamner</b>.</h3>
-
+<h3 align="center">Completed <b>Internship</b> as <b>Python Developer Intern</b> from <b>Om Software</b>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksk16101999&label=Profile%20views&color=0e75b6&style=flat" alt="aksk16101999" /> </p>
 
