@@ -52,7 +52,7 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -96,7 +96,7 @@
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
+ -->
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
